@@ -1,5 +1,5 @@
 ---
-layout: landing
+layout: page
 title:  "Welcome to Jekyll!"
 date:   2016-03-15 14:31:57 +0800
 categories: jekyll update
