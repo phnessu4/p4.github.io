@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About
+title: 关于
+desc: 欲望面前，每一个人都是穷光蛋
 permalink: /about/
 ---
 
