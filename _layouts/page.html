@@ -8,10 +8,12 @@ layout: default
     <p>{{ page.desc }}</p>
   </header>
 
+  {% if page.hidden_content != 1 %}
   <section class="wrapper style5">
     <div class="inner">
       {{ content }}
     </div>
   </section>
-
+	{% endif %}
+  
 </article>

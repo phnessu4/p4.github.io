@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 关于
+title: about
 desc: 欲望面前，每一个人都是穷光蛋
 permalink: /about/
+hidden_content: 1
+weight: 2
 ---
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
